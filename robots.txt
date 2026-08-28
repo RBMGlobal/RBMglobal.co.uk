@@ -1,0 +1,5 @@
+# rbmglobal.co.uk
+# The company site is crawlable. The weekly threat brief archive is not:
+# unlisted, orientation-only material that should not appear in search results.
+User-agent: *
+Disallow: /nigeria-events-map/briefs/
